@@ -1,0 +1,10 @@
+column_name,sensitivity
+RecID,no
+fname,yes
+lname,no
+mname,no
+address,no
+city,no
+state,no
+zip,yes
+ssn,yes
